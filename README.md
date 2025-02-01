@@ -1,5 +1,4 @@
-\*\*# Instalar Dependenciasoiiiiiiiiiiiiiiiiiii
-
+\*\*# Instalar Dependencias 
 ## Ejecuta este comando en la terminal:
 
     npm install express jsonwebtoken bcryptjs cors body-parser fs-extra
