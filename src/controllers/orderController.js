@@ -37,7 +37,7 @@ export const getAllOrders = async (req, res)=>{
     res.json(order)
  }
 
- const updatedOrder =async(req, res)=>{
+ export const updateOrder =async(req, res)=>{
     const orders = await leerJSON(ORDERS_FILE)
     const index = orders.findIndex(order => order.id == req.params.id);
     if (index === -1) return res.status(404).json({message:'Orden no encontrada'})

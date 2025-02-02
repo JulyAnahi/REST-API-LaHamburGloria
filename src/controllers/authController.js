@@ -53,3 +53,29 @@ export const getUserById = async(req, res)=>{
     if(!user) return res.status(404).json({message:'usuario no enconctrado'});
     res.json(user);
 };
+
+// actualizar usuario
+export const updaterUser = async (req, res )=>{
+     let users = await leerJSON(USER_FILE);
+     const index = users.findIndex(user=> user.id == req.params.id);
+
+     if (index === -1) return res.status(404).json({message:'Usuario no encontrado'});
+     // si se actualiza la contraseña se encrita nuevamente
+
+     if(req.body.password){
+        req.body.password = await bcrypt.hash(req.body.password, 10);
+     }
+
+     users[index] = {...users[index], ...req.body}
+     await writeJSON(USER_FILE, users);
+
+     res.json({message:'Usuario actualizado', user:users[index]})
+};
+
+export const deleteUser = async (req, res)=>{
+    let users = await readJSON(USER_FILE);
+    users = users.filter(user=> user.id != req.params.id);
+    await escribirJSON(USER_FILE, users);
+
+    res.json({message:'Usuario eliminado'})
+}
