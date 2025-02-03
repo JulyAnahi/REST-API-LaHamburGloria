@@ -1,0 +1,23 @@
+[
+  {
+    "id": "fe09430b-3cc7-4e89-9c7a-66e8ab2a2305",
+    "email": "prueba1@gmail.com",
+    "producto": "Simple con queso y tomate",
+    "precio": 3500,
+    "date": "2025-02-03T20:33:25.143Z"
+  },
+  {
+    "id": "69ef6f71-10ce-45c6-a01d-fcb38038262e",
+    "email": "prueba1@gmail.com",
+    "producto": "Combo Toro",
+    "precio": 5700,
+    "date": "2025-02-03T20:35:54.676Z"
+  },
+  {
+    "id": "42dec1b4-a7f5-4345-86d4-4f3e5c32eb88",
+    "email": "prueba1@gmail.com",
+    "producto": "Simple con queso y tomate",
+    "precio": 3500,
+    "date": "2025-02-03T20:39:42.435Z"
+  }
+]

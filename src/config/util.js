@@ -5,7 +5,9 @@ export const leerJSON = async (archivo)=>{
         const data = await fs.readFile(archivo, 'utf-8');
         return JSON.parse(data)
     } catch (error) {
+        console.log(error)
         return [];
+
     }
 }
 

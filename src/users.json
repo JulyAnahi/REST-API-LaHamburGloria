@@ -1,0 +1,92 @@
+[
+  {
+    "id": "febb34ec-dbd3-401c-9a18-0332ebd46cde",
+    "email": "julyuiz@gmail.com",
+    "password": "$2a$10$hgmqW7QC3zb3sVEYBfZoQuJI1aFvAqG.MLH1WJfZYKfl2SZT5V5/a",
+    "direccion": "martinez 256"
+  },
+  {
+    "id": "08ab5c7b-bd51-409e-8a4d-ccd094c07167",
+    "email": "july.ruiz@gmail.com",
+    "password": "$2a$10$jeWMYnrJq5fqrFPf4SZu2OGe4AyMeD08Jj.BpY39ZIgdCaxs5QDwO",
+    "direccion": "martinez 256"
+  },
+  {
+    "id": "6b32a20c-d8f7-41ea-a305-e20ddb5d4278",
+    "email": "july@gmail.com",
+    "password": "$2a$10$ljOgVR.82zGA.xUlTTrdleDWy4BE8OgwnKvGgcItk/3yWrw9GjFNG",
+    "direccion": "martinez 256"
+  },
+  {
+    "id": "e199abc8-238d-4303-bcf1-7381d37835f8",
+    "email": "ju@gmail.com",
+    "password": "$2a$10$aSZfyD4J9oh62yuaLA2FmeTXLl8VvFpHprMyOQ7Ce56ggruvDnkji",
+    "direccion": "lorenzo22"
+  },
+  {
+    "id": "f46947bb-9406-473e-b8f3-f6a1f3a494c4",
+    "email": "juan@gmail.com",
+    "password": "$2a$10$PQg/ugxjNaGEKs/.a99ubeE.fNr.TQgOu/MuMVXlvM54uE5flzBCK",
+    "direccion": "lorenzo22"
+  },
+  {
+    "id": "7a86f6f1-63ef-447f-b878-974574e71d54",
+    "email": "jan@gmail.com",
+    "password": "$2a$10$oJ4C3TOxXPbG7aipHbcljumHAwEn.xAGgJ0EWXvGdanPtVM7oDCZa",
+    "direccion": "lorenzo22"
+  },
+  {
+    "id": "5b183df2-e43b-40d5-b66e-ff6e3268c168",
+    "email": "julia@gmail.com",
+    "password": "$2a$10$OQUy6fAUEI2lZfhUQJWJv.2LX73L7BlUDegQv/z41wnhuZJyIQ3bS",
+    "direccion": "lorenzo22"
+  },
+  {
+    "id": "96af6c12-1d2d-4fa9-a7cc-e5cd1d55751c",
+    "email": "julio@gmail.com",
+    "password": "$2a$10$RzCEhmHKuL0mU3xbrvmDjeF1yHXwdB8FQ.1r8PhTz3wDm5L6iAIZ.",
+    "direccion": "lorenzo22"
+  },
+  {
+    "id": "a35f9e69-bb25-430c-8181-1887e6a6c293",
+    "email": "jana@gmail.com",
+    "password": "$2a$10$7otZc6qTubcRzZcCTKSlE.QF1icL3qKyyR5hhf0CohFc7mMBocRlK",
+    "direccion": "lorenzo22"
+  },
+  {
+    "id": "eea975c5-a02c-4dd6-8c8c-5008fc85e752",
+    "email": "jo@gmail.com",
+    "password": "$2a$10$V5HA0aZXlx4YIPchEUF4PuR6cFP9XcY9Bly1miEvI7WUrK7S.Tug6",
+    "direccion": "lorenzo22"
+  },
+  {
+    "id": "3e44b395-c529-4d3d-beca-5066f55eb738",
+    "email": "jose@gmail.com",
+    "password": "$2a$10$geeo9BfM4WNdVEiLM9vOeeTyDKkstkC2Kn0M7WbDCMCcLdQ4LJ0Nm",
+    "direccion": "vinter  55"
+  },
+  {
+    "id": "8d32652b-e269-4511-9ef5-d456203f7a67",
+    "email": "j@gmail.com",
+    "password": "$2a$10$ULptDmsOXc2BZFDJQGfq.uRkqp51ufsTB5ZjJtymj.W/nyRYlyAt6",
+    "direccion": "vinter  55"
+  },
+  {
+    "id": "b8ea2c9e-7440-4801-989c-82e002126a9c",
+    "email": "juanas@gmail.com",
+    "password": "$2a$10$f6IZAB0Ntv8HcKruXYFE/OfELWTBO/xFS19DxXd5UbLbEqrPVRoAW",
+    "direccion": "vinter  55"
+  },
+  {
+    "id": "02bdf1c2-844a-4c8f-9da7-16546f15caa9",
+    "email": "prueba@gmail.com",
+    "password": "$2a$10$ZEFatQ8lGf0GoYkGYMS5Au4vIJ4gwExM0I9T8F5ajonfxUHdAmrcC",
+    "direccion": "lorenzo22"
+  },
+  {
+    "id": "0de60f9c-4099-48a2-b6e9-a0d0d9d41f3b",
+    "email": "prueba1@gmail.com",
+    "password": "$2a$10$5US8.0yZwaideSuhJIH85ukWCw51gV4f5EbAfkkv.uxlFjev/48N2",
+    "direccion": "lorenzo22"
+  }
+]
