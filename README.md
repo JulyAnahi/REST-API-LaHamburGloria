@@ -1,6 +1,6 @@
 # API-REST La Hamburgloria
 
-Realizamos un servidor donde servimos una web de tipo fast food con registro y login de usuario, donde cada usuario autenticado puede generar su pedido
+Realize un servidor donde sirvo una web de tipo fast food con registro y login de usuario, donde cada usuario autenticado puede generar su pedido
 
 ## ¿Como usarlo?
 
@@ -22,4 +22,4 @@ Realizamos un servidor donde servimos una web de tipo fast food con registro y l
 
 		fs-extra (en lugar de fs) → Funciones asíncronas para manejo de archivos
 
-4. Debes armar  tu variables de entorno . env con la plantilla que dejamos disponible.(Recomendado PORT:3000) y carpeta 'public'
+4. Debes armar  tu variables de entorno . env con la plantilla que dejo disponible (.env.template).(Recomendado PORT:3000) y carpeta 'public'
