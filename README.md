@@ -23,3 +23,4 @@ Realize un servidor donde sirvo una web de tipo fast food con registro y login d
 		fs-extra (en lugar de fs) → Funciones asíncronas para manejo de archivos
 
 4. Debes armar  tu variables de entorno . env con la plantilla que dejo disponible (.env.template).(Recomendado PORT:3000) y carpeta 'public'
+5. Iniciar el servidor con npm run dev
